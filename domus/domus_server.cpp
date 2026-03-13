@@ -1,5 +1,3 @@
-#include <iostream>
-
 #include "domus/domus.grpc.pb.h"
 #include "domus/domus.pb.h"
 #include "grpcpp/grpcpp.h"
